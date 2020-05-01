@@ -1,8 +1,8 @@
 const jwt = require('jsonwebtoken');
 
-//================
+//=================
 //Verificar token
-//================
+//=================
 
 let verificaToken = (req, res, next) =>{
 
